@@ -1,0 +1,8 @@
+.newclass {
+    width: 100%;
+    padding: 25px;
+    background-color: lightblue;
+    color: white;
+    font-size: 25px;
+    box-sizing: border-box;
+}
